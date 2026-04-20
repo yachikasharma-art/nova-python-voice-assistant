@@ -81,12 +81,6 @@ python main.py
 
 ---
 
-## 📸 Demo
-
-(Add your demo video or screenshot in the `assets/` folder)
-
----
-
 ## ⚠️ Important Notes
 
 * Do NOT upload your `.env` file
